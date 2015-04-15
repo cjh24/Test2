@@ -1,0 +1,4 @@
+x <- ("Test")
+print (x)
+y <- ("2")
+print(c(x,y))
